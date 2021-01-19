@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148064090130",
+    "project_id": "tsawgly",
+    "storage_bucket": "tsawgly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148064090130:android:d46ef4d65add6bfc7c80cb",
+        "android_client_info": {
+          "package_name": "com.tsawakly.shops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148064090130-tg91o77fc8h2gev8ilpl1d953qtc6qmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6-mIXg_Pq715Fwqujo5AGURyAU1V_bCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148064090130-tg91o77fc8h2gev8ilpl1d953qtc6qmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
